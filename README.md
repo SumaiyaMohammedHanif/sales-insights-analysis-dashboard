@@ -66,4 +66,4 @@ This project is part of a Sales Analytics case study using Power BI and MySQL. T
 
 Created by **[Sumaiya Mohammed Hanif]** – aspiring Data Analyst  
 Email: sumaiyashaikh123000@gmail.com  
-LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/sumaiya-mohammed-hanif)
+LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/sumaiya-mohammed-hanif)
