@@ -5,6 +5,10 @@ Interactive Power BI dashboard built using MySQL + Power BI for sales performanc
 This project is part of a Sales Analytics case study using Power BI and MySQL. The dashboard provides actionable insights into sales performance, profit margins, and customer trends for **AtliQ Hardware** (Codebasics dataset).
 
 ---
+## Data Source
+- The data used in this project simulates a real-world sales database for a fictional company named AtliQ Hardware. The dataset was provided in SQL format, containing transactions,customer, product, market, and date dimension tables. Data was loaded into MySQL using the SQL dump and later connected to Power BI via ODBC for further transformation and dashboarding.
+
+---
 
 ## Project Summary
 
